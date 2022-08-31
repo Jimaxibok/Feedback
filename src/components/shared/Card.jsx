@@ -17,7 +17,7 @@ return (
 }
 
 Card.defaultProps = {
-    reverse : false,
+    reverse : false, //
 }
 
 Card.propTypes = {
